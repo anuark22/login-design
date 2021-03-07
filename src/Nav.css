@@ -1,8 +1,3 @@
-@font-face{
-    font-family: "Roboto";
-    src: url('../font/Roboto/Roboto-Thin.ttf'),
-         url('../font/Roboto/Roboto-Light.ttf');
-}
 .nav{
     display: flex;
     flex-direction: row;

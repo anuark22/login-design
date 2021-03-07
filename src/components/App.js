@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Switch , Route } from 'react-router-dom';
-import '../public/css/index.css';
+import '../index.css';
 import Nav from './Nav';
 import SignIn from './SignIn';
 import SignUp from './SignUp';

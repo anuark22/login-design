@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import '../public/css/SignUp.css';
+import '../SignUp.css';
 
 function SignUp(){
     const classInitialState = {

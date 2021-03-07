@@ -1,6 +1,6 @@
 import React, { Fragment } from 'react';
-import '../public/css/Home.css';
-import logo from '../public/img/homeimg.png';
+import '../Home.css';
+import logo from '../homeimg.png';
 
 function Home (){
     return(
